@@ -24,7 +24,9 @@
 # yarn-error.log*
 
 
+# env file
 backend/.env
 
+# dependencies
 backend/node_modules
 frontend/node_modules
